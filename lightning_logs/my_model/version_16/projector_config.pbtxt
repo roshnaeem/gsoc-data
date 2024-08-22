@@ -1,0 +1,20 @@
+embeddings {
+  tensor_name: "ss_id:01500"
+  metadata_path: "01500/ss_id/metadata.tsv"
+  tensor_path: "01500/ss_id/tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:01500"
+  metadata_path: "01500/month/metadata.tsv"
+  tensor_path: "01500/month/tensors.tsv"
+}
+embeddings {
+  tensor_name: "day_of_week:01500"
+  metadata_path: "01500/day_of_week/metadata.tsv"
+  tensor_path: "01500/day_of_week/tensors.tsv"
+}
+embeddings {
+  tensor_name: "day_hour:01500"
+  metadata_path: "01500/day_hour/metadata.tsv"
+  tensor_path: "01500/day_hour/tensors.tsv"
+}
