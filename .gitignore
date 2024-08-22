@@ -1,12 +1,4 @@
 data_files
-result_data/combined_df.csv
-result_data/data_tft_36.csv
+gsoc-env
 result_data/final_data.csv
 result_data/final_data_half_hour.csv
-result_data/final_data_tft.csv
-result_data/final_data_tft2.csv
-result_data/pv_generaton.csv
-result_data/py-script-tft.py
-result_data/steps.csv
-result_data/steps_date_oct10.csv
-result_data/steps_oct_2021.csv
